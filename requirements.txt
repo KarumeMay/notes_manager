@@ -1,0 +1,11 @@
+Flask
+Flask-JWT-Extended
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-CORS
+marshmallow
+marshmallow-sqlalchemy
+PyJWT
+pytest
+pytest-flask
+gunicorn
